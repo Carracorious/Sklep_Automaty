@@ -9,39 +9,29 @@ namespace Sklep_z_Automatami_vendingowymi
     public class Zamowienia
     {
 
-        public int getPrice(string name) 
+        public int getPrice(string name)
         {
             bool found = false;
             int cena = 0;
             Automat automats = new Automat();
             List<Automat> lista = automats.getAutomats();
-            foreach(Automat automat in lista)
-            {
+            foreach (Automat automat in lista)
                 if (automat.name == name)
                 {
                     cena = automat.price;
                     found = true;
                 }
             if (found == false)
-                {
-                    return 0;
-                }
-            }
+                cena = 0;
             return cena;
-
         }
-
         public void addZamowienie(string client, string name, int quantity, DateOnly date)
         {
             int cena = getPrice(name);
             if (cena != 0)
-            {
                 File.AppendAllText("./dane/zamowienia.txt", client + ", " + name + ", " + quantity + ", " + cena * quantity + ", " + date + "\n");
-            }
             else
-            {
                 Console.WriteLine("Nie ma takiego automatu!!!");
-            }
         }
 
         public void removeZamowiene(string client, string name)

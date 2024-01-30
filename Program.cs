@@ -98,12 +98,14 @@ while (true)
                         }
                     case "2":
                         {
+                            Console.WriteLine("Aby dodać automat podaj nazwę automatu:");
                             string addMagazyn = Console.ReadLine();
                             magazyn.addAutomat(addMagazyn);
                             break;
                         }
                     case "3":
                         {
+                            Console.WriteLine("Aby usunąć automat podaj nazwę automatu: ");
                             string removeMagazyn = Console.ReadLine();
                             magazyn.removeAutomat(removeMagazyn);
                             break;
@@ -129,16 +131,22 @@ while (true)
                         }
                     case "2":
                         {
+                            Console.WriteLine("Podaj imię i nazwisko klienta: ");
                             string clientAdd = Console.ReadLine();
+                            Console.WriteLine("Podaj nazwę automatu: ");
                             string nameAdd = Console.ReadLine();
+                            Console.WriteLine("Podaj ilość zamówionych automatów: ");
                             int quantityAdd = int.Parse(Console.ReadLine());
+                            Console.WriteLine("Podaj datę zamówienia: ");
                             DateOnly dateAdd = DateOnly.Parse(Console.ReadLine());
                             zamowienia.addZamowienie(clientAdd, nameAdd, quantityAdd, dateAdd);
                             break;
                         }
                     case "3":
                         {
+                            Console.WriteLine("Podaj Imię i nazwisko klienta: ");
                             string clientRemove = Console.ReadLine();
+                            Console.WriteLine("Podaj nazwę automatu: ");
                             string nameRemove = Console.ReadLine();
                             zamowienia.removeZamowiene(clientRemove, nameRemove);
                             break;
