@@ -1,0 +1,14 @@
+C:\Users\kkraw\OneDrive\Pulpit\Studia_informatyka_niestacjonarne\C#\Projekt_w67150\Sklep_z_Automatami_vendingowymi\bin\Debug\net7.0\Sklep_z_Automatami_vendingowymi.exe
+C:\Users\kkraw\OneDrive\Pulpit\Studia_informatyka_niestacjonarne\C#\Projekt_w67150\Sklep_z_Automatami_vendingowymi\bin\Debug\net7.0\Sklep_z_Automatami_vendingowymi.deps.json
+C:\Users\kkraw\OneDrive\Pulpit\Studia_informatyka_niestacjonarne\C#\Projekt_w67150\Sklep_z_Automatami_vendingowymi\bin\Debug\net7.0\Sklep_z_Automatami_vendingowymi.runtimeconfig.json
+C:\Users\kkraw\OneDrive\Pulpit\Studia_informatyka_niestacjonarne\C#\Projekt_w67150\Sklep_z_Automatami_vendingowymi\bin\Debug\net7.0\Sklep_z_Automatami_vendingowymi.dll
+C:\Users\kkraw\OneDrive\Pulpit\Studia_informatyka_niestacjonarne\C#\Projekt_w67150\Sklep_z_Automatami_vendingowymi\bin\Debug\net7.0\Sklep_z_Automatami_vendingowymi.pdb
+C:\Users\kkraw\OneDrive\Pulpit\Studia_informatyka_niestacjonarne\C#\Projekt_w67150\Sklep_z_Automatami_vendingowymi\obj\Debug\net7.0\Sklep_z_Automatami_vendingowymi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkraw\OneDrive\Pulpit\Studia_informatyka_niestacjonarne\C#\Projekt_w67150\Sklep_z_Automatami_vendingowymi\obj\Debug\net7.0\Sklep_z_Automatami_vendingowymi.AssemblyInfoInputs.cache
+C:\Users\kkraw\OneDrive\Pulpit\Studia_informatyka_niestacjonarne\C#\Projekt_w67150\Sklep_z_Automatami_vendingowymi\obj\Debug\net7.0\Sklep_z_Automatami_vendingowymi.AssemblyInfo.cs
+C:\Users\kkraw\OneDrive\Pulpit\Studia_informatyka_niestacjonarne\C#\Projekt_w67150\Sklep_z_Automatami_vendingowymi\obj\Debug\net7.0\Sklep_z_Automatami_vendingowymi.csproj.CoreCompileInputs.cache
+C:\Users\kkraw\OneDrive\Pulpit\Studia_informatyka_niestacjonarne\C#\Projekt_w67150\Sklep_z_Automatami_vendingowymi\obj\Debug\net7.0\Sklep_z_Automatami_vendingowymi.dll
+C:\Users\kkraw\OneDrive\Pulpit\Studia_informatyka_niestacjonarne\C#\Projekt_w67150\Sklep_z_Automatami_vendingowymi\obj\Debug\net7.0\refint\Sklep_z_Automatami_vendingowymi.dll
+C:\Users\kkraw\OneDrive\Pulpit\Studia_informatyka_niestacjonarne\C#\Projekt_w67150\Sklep_z_Automatami_vendingowymi\obj\Debug\net7.0\Sklep_z_Automatami_vendingowymi.pdb
+C:\Users\kkraw\OneDrive\Pulpit\Studia_informatyka_niestacjonarne\C#\Projekt_w67150\Sklep_z_Automatami_vendingowymi\obj\Debug\net7.0\Sklep_z_Automatami_vendingowymi.genruntimeconfig.cache
+C:\Users\kkraw\OneDrive\Pulpit\Studia_informatyka_niestacjonarne\C#\Projekt_w67150\Sklep_z_Automatami_vendingowymi\obj\Debug\net7.0\ref\Sklep_z_Automatami_vendingowymi.dll

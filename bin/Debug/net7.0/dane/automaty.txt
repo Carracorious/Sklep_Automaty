@@ -1,0 +1,9 @@
+GourmetSelect, 199, 142, 68, 2499, Przekąski, baton, 8, 3
+PremiumEats, 200, 100, 50, 3000, Przekąski, wafel, 9, 5
+DeluxDining, 199, 142, 68, 2499, Zdrowa Żywność, sałatka, 10, 3
+CulinaryElite, 199, 142, 68, 2499, Zdrowa Żywność, bułka, 8, 6
+GrandCuisine, 199, 142, 68, 2499, Zdrowa Żywność, kawior, 6, 4
+DrinkCrafted, 199, 142, 68, 2499, Zimne Napoje, butelka, 500, 0
+RefreshChoice, 199, 142, 68, 2499, Gorące Napoje, kubek, 250, 50
+ElixirSelect, 199, 142, 68, 2499, Zimne Napoje, puszka, 330, 0
+ThirstQuenchPrime, 199, 142, 68, 2499, Zimne Napoje, butelka, 750, 0
