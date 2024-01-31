@@ -29,7 +29,7 @@ namespace Sklep_z_Automatami_vendingowymi
         {
             int cena = getPrice(name);
             if (cena != 0)
-                File.AppendAllText("./dane/zamowienia.txt", client + ", " + name + ", " + quantity + ", " + cena * quantity + ", " + date + "\n");
+                File.AppendAllText("./dane/zamowienia.txt", client + ", " + name + ", " + quantity + ", " + cena * quantity+ "zł" + ", " + date + "\n");
             else
                 Console.WriteLine("Nie ma takiego automatu!!!");
         }

@@ -1,36 +1,5 @@
 ﻿using Sklep_z_Automatami_vendingowymi;
 
-//Automat automat = new Automat();
-//automat.getAutomatInfo();
-
-//AutomatGoraceNapoje automatGorace = new AutomatGoraceNapoje();
-//automatGorace.getHotAutomatInfo();
-
-//AutomatZimneNapoje automatZimne = new AutomatZimneNapoje();
-//automatZimne.getColdAutomatInfo();
-
-//AutomatPrzekaski automatPrzekaski = new AutomatPrzekaski();
-//automatPrzekaski.getSnackAutomatInfo();
-
-//AutomatZdrowa automatZdrowa = new AutomatZdrowa();
-//automatZdrowa.getHealthyAutomatInfo();
-//string addName = Console.ReadLine();
-//Magazyn magazyn = new Magazyn();
-//magazyn.addAutomat(addName);
-
-//string removeName = Console.ReadLine();
-//magazyn.removeAutomat(removeName);
-
-//Zamowienia zamowienia = new Zamowienia();
-//string client = Console.ReadLine();
-//string name = Console.ReadLine();
-//int quantity = int.Parse(Console.ReadLine());
-//DateOnly date = DateOnly.Parse(Console.ReadLine());
-//zamowienia.addZamowienie(client, name, quantity, date);
-//zamowienia.removeZamowiene(client, name);
-
-//zamowienia.showZamowienia();
-
 while (true)
 {
     Console.WriteLine("1. Automaty\n" + "2. Magazyn\n" + "3. Zamówienia\n");

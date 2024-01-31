@@ -33,7 +33,7 @@ namespace Sklep_z_Automatami_vendingowymi
                     cupCapacity = int.Parse(strings[7]),
                     cupQuantity = int.Parse(strings[8])
                 };
-                if(automat.type == "Gorace Napoje")
+                if(automat.type == "Gorące Napoje")
                 {
                     goraceAutomaty.Add(automat);
                 }

@@ -1,2 +1,2 @@
-Konrad Krawczyk, PremiumEats, 10, 0, 30.03.2012
-Konrad Krawczyk, PremiumEats, 2, 6000, 30.01.2023
+Konrad Krawczyk, GourmetSelect, 5, 12495, 02.02.2024
+Konrad Krawczyk, GourmetSelect, 12, 29988zł, 02.02.2025
