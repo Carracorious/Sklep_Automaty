@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Sklep_z_Automatami_vendingowymi.Automat">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAQAQAAAAAAAEAAFAAAAAIAAIAAAAAA=</HashCode>
+      <FileName>Automat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sklep_z_Automatami_vendingowymi.AutomatGoraceNapoje">
+    <Position X="8.25" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAABAAAAAACAAAAAgAEAAAAAA=</HashCode>
+      <FileName>AutomatGoraceNapoje.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sklep_z_Automatami_vendingowymi.AutomatPrzekaski">
+    <Position X="11.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABABAAAAAAACAAgAAAAAAEAAAAAA=</HashCode>
+      <FileName>AutomatPrzekaski.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sklep_z_Automatami_vendingowymi.AutomatZdrowa">
+    <Position X="7.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAQAAAAAAAAAAgIAACAAAAAAAAAAAA=</HashCode>
+      <FileName>AutomatZdrowa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sklep_z_Automatami_vendingowymi.AutomatZimneNapoje">
+    <Position X="11.25" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAKAAAAAAAAAAAAAAAAIAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>AutomatZimneNapoje.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sklep_z_Automatami_vendingowymi.Magazyn">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAEAIAAAAAAAAAA=</HashCode>
+      <FileName>Magazyn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sklep_z_Automatami_vendingowymi.Zamowienia">
+    <Position X="13.75" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAQAAAAAAQAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Zamowienia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

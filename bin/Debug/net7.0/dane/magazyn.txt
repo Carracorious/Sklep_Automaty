@@ -6,4 +6,4 @@ GrandCuisine, 6
 DrinkCrafted, 5
 RefreshChoice, 3
 ThirstQuenchPrime, 20
-ElixirSelect, 15
+ElixirSelect, 16

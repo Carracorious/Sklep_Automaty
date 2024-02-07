@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Sklep_z_Automatami_vendingowymi
 build_property.ProjectDir = C:\Users\kkraw\OneDrive\Pulpit\Studia_informatyka_niestacjonarne\C#\Projekt_w67150\Sklep_z_Automatami_vendingowymi\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

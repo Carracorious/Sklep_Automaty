@@ -87,7 +87,7 @@ while (true)
             {
                 Console.WriteLine(
                     "1. Pokaż zamówienia\n" +
-                    "2. Doadaj zamówienie\n" +
+                    "2. Dodaj zamówienie\n" +
                     "3. Usuń zamówienie\n");
                 string zamowieniaWybor = Console.ReadLine();
                 Zamowienia zamowienia = new Zamowienia();
